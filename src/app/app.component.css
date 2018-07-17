@@ -1,0 +1,23 @@
+/* .nav-tabs{
+    height: 65px;
+}
+.nav-tabs , .nav-items{
+    text-transform : none !important;
+    line-height: 65px;
+height: 65px;
+}
+.nav , .nav-tabs , .nav-items a{
+    font-size: 25px;
+    color: grey !important;
+}
+.nav nav-tabs nav-items a.active{
+    background-color: #fff !important;
+} */
+
+.pb-3, .py-3 {
+
+    padding-bottom: 0 !important;}
+
+    .nav-tabs {
+        border-bottom: none;
+    }
