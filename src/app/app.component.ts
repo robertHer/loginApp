@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  homeEnabled:boolean;
+  links:boolean = true;
+
+//   disableBtn(){
+//     this.linkEnabled = false;
+//   }
 }

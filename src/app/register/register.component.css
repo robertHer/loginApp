@@ -1,0 +1,52 @@
+.pb-3, .py-3 {
+
+    padding-top: 0 !important;}
+    .card{
+        background: rgba(4, 4, 4, 0.56); box-shadow: 0px 35px 44px -22px #1f181b;
+                    padding: 60px 40px;
+                    color: #ffffff; border-radius: 30px;
+                    margin-bottom: 25px;
+    }
+
+    h2{
+        color: #fff;
+font-size: 20px;
+font-weight: 500;
+text-align: center;
+margin-bottom: 2em;
+letter-spacing: 2px;
+    }
+    p{
+        font-size: 13px;
+color: #eee;
+margin-top: 1em;
+text-align: center;
+text-transform: none;
+    }
+
+    input{
+        width: 88%;
+        outline: none;
+font-size: 15px;
+color: #ffffff;
+padding: 15px 40px 15px 10px;
+width: 87%;
+border: none;
+border-bottom: 1px solid #DCCBCF;
+margin-bottom: 30px;
+background: transparent !important;
+    }
+    button{
+        background: #fff;
+color: #000;
+outline: none;
+display: block;
+margin: 0 auto;
+    margin-top: 0px;
+border: none;
+cursor: pointer;
+padding: 9px 38px;
+font-size: 14px;
+margin-top: 55px;
+font-weight: bold;
+    }
